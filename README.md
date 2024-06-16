@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lcccodes/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
 
-- <b>Install & configure osTicket (Help Desk Ticketing System in Azure)</b>
+- <b>osTicket (Help Desk Ticketing System in Azure): installation, configuration, ticket management</b>
   - [osTicket: Prerequisites and Installation](https://github.com/lcccodes/osticket-install)
   - [osTicket: Post-Installation Configuration](https://github.com/lcccodes/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/lcccodes/ticket-lifecycle)
