@@ -3,13 +3,13 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure Fundamentals: provisioning & configuring VMs, NSGs, traffic monitoring</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lcccodes/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
+  - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/lcccodes/configure-ad)
 
 - <b>osTicket (Help Desk Ticketing System in Azure): installation, configuration, ticket management</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/lcccodes/osticket-install)
-  - [osTicket: Post-Installation Configuration](https://github.com/lcccodes/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/lcccodes/ticket-lifecycle)
+  - [Prerequisites and Installation](https://github.com/lcccodes/osticket-install)
+  - [Post-Installation Configuration](https://github.com/lcccodes/post-install-config)
+  - [Ticket Lifecycle Management](https://github.com/lcccodes/ticket-lifecycle)
 
 
 <h2>Connect with me:</h2>
