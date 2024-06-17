@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shannon, an IT and data professional and research assistant
+Hi, I'm Shannon, an IT and data professional and research assistant
 
 <h2>Information Technology Projects:</h2>
 
