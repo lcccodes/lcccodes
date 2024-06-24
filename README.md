@@ -1,4 +1,6 @@
-Hi, I'm Shannon, an IT and data professional and research assistant
+Hi there! I'm Shannon, an IT and data professional and research assistant. I'm a versatile analyst, writer and editor with strengths in big-picture and systems-level thinking.
+
+Lately my focus has turned to cloud computing, but I also have interests in data analysis and theory. I've studied a bit of python and completed a course in math for data scientists.
 
 <h2>Information Technology Projects:</h2>
 
