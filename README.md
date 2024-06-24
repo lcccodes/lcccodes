@@ -1,6 +1,6 @@
 Hi there! I'm Shannon, an IT and data professional and research assistant. I'm a versatile analyst, writer and editor with strengths in <b>big-picture, systems-level thinking</b>.
 
-Lately my focus has included cloud computing, but I've also worked in <b>data analysis and theory</b>; I've studied a bit of <b>python</b> and completed a course in <b>math for data science</b> which was much more rewarding than I expected.
+Lately my focus has included cloud computing, but I've also worked with <b>data analysis</b>; I've studied a bit of <b>python</b> and completed a course in <b>math for data science</b> which was much more rewarding than I expected.
 
 This is what I've got up here so far:
 
