@@ -9,7 +9,8 @@ This is what I've got up here so far:
 - <b>Microsoft Azure Fundamentals: provisioning & configuring VMs, NSGs, traffic monitoring</b>
   - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
   - [Active Directory Installation and Configuration](https://github.com/lcccodes/configure-ad)
-
+  - [Understanding DNS Configuration](https://github.com/lcccodes/dnsconfig)
+  - 
 - <b>osTicket (Help Desk Ticketing System in Azure): installation, configuration, ticket management</b>
   - [Prerequisites and Installation](https://github.com/lcccodes/osticket-install)
   - [Post-Installation Configuration](https://github.com/lcccodes/post-install-config)
