@@ -4,7 +4,7 @@ Lately my focus has included cloud computing, but I've also worked with <b>data 
 
 This is what I've got up here so far:
 
-<h2>Information Technology Projects:</h2>
+<h2>IT, Networking and Cloud Computing Projects:</h2>
 
 - <b>Microsoft Azure Fundamentals: provisioning & configuring VMs, NSGs, traffic monitoring</b>
   - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
