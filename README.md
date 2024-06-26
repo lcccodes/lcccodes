@@ -6,11 +6,11 @@ This is what I've got up here so far:
 
 <h2>IT, Networking and Cloud Computing Projects:</h2>
 
-- <b>Microsoft Azure Fundamentals: provisioning & configuring VMs, NSGs, traffic monitoring</b>
-  - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
+- <b>Microsoft Azure Fundamentals</b>
   - [Active Directory Installation and Configuration](https://github.com/lcccodes/configure-ad)
   - [Understanding DNS Configuration](https://github.com/lcccodes/dnsconfig)
-  - 
+  - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
+  
 - <b>osTicket (Help Desk Ticketing System in Azure): installation, configuration, ticket management</b>
   - [Prerequisites and Installation](https://github.com/lcccodes/osticket-install)
   - [Post-Installation Configuration](https://github.com/lcccodes/post-install-config)
