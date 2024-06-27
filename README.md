@@ -6,7 +6,7 @@ This is what I've got up here so far:
 
 <h2>IT, Networking and Cloud Computing Projects:</h2>
 
-- <b>Microsoft Azure Fundamentals</b>
+- <b>Microsoft Azure and Active Directory</b>
   - [Active Directory Installation and Configuration](https://github.com/lcccodes/configure-ad)
   - [Understanding DNS Configuration](https://github.com/lcccodes/dnsconfig)
   - [Editing Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lcccodes/azure-network-protocols)
